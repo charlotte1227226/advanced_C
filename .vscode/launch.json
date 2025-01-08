@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/MCALab/OneDrive/ドキュメント/進階c語言實務/第六周",
-      "program": "c:/Users/MCALab/OneDrive/ドキュメント/進階c語言實務/第六周/build/Debug/outDebug",
+      "cwd": "c:/Users/MCALab/Desktop/進階c語言實務/第一週",
+      "program": "c:/Users/MCALab/Desktop/進階c語言實務/第一週/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
